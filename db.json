@@ -1,9 +1,7 @@
 {
-    "_json": {
-        "steamid": "76561198151735927",
-        "personaname": "LucasZPN",
-        "profileurl": "https://steamcommunity.com/profiles/76561198151735927/",
-        "avatarfull": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76_full.jpg",
-    },
+    "steamid": "76561198151735927",
+    "personaname": "LucasZPN",
+    "profileurl": "https://steamcommunity.com/profiles/76561198151735927/",
+    "avatarfull": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76_full.jpg",
     "identifier": "https://steamcommunity.com/openid/id/76561198151735927"
 }
