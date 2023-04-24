@@ -1,0 +1,34 @@
+{
+    "provider": "steam",
+    "_json": {
+        "steamid": "76561198151735927",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "LucasZPN",
+        "profileurl": "https://steamcommunity.com/profiles/76561198151735927/",
+        "avatar": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76.jpg",
+        "avatarmedium": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76_medium.jpg",
+        "avatarfull": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76_full.jpg",
+        "avatarhash": "cf4e46176e332211c17eb4660b6f23f8fbc65f76",
+        "lastlogoff": 1678309354,
+        "personastate": 0,
+        "realname": "Lucas",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1408992023,
+        "personastateflags": 0
+    },
+    "id": "76561198151735927",
+    "displayName": "LucasZPN",
+    "photos": [
+        {
+            "value": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76.jpg"
+        },
+        {
+            "value": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76_medium.jpg"
+        },
+        {
+            "value": "https://avatars.akamai.steamstatic.com/cf4e46176e332211c17eb4660b6f23f8fbc65f76_full.jpg"
+        }
+    ],
+    "identifier": "https://steamcommunity.com/openid/id/76561198151735927"
+}
