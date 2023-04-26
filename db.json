@@ -5,14 +5,12 @@
             "uuid": "e370fa57-4757-3604-3648-499e1f642d3f",
             "displayName": "Gekko",
             "description": "Gekko the Angeleno leads a tight-knit crew of calamitous creatures. His buddies bound forward, scattering enemies out of the way, with Gekko chasing them down to regroup and go again.",
-            "developerName": "Aggrobot",
             "characterTags": null,
             "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/displayicon.png",
             "displayIconSmall": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/displayiconsmall.png",
             "bustPortrait": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/fullportrait.png",
             "fullPortrait": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/fullportrait.png",
             "fullPortraitV2": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/fullportrait.png",
-            "killfeedPortrait": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/killfeedportrait.png",
             "background": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/background.png",
             "backgroundGradientColors": [
                 "c7f458ff",
@@ -20,11 +18,6 @@
                 "3a2656ff",
                 "3a7233ff"
             ],
-            "assetPath": "ShooterGame/Content/Characters/AggroBot/AggroBot_PrimaryAsset",
-            "isFullPortraitRightFacing": false,
-            "isPlayableCharacter": true,
-            "isAvailableForTest": false,
-            "isBaseContent": false,
             "role": {
                 "uuid": "1b47567f-8f7b-444b-aae3-b0c634622d10",
                 "displayName": "Initiator",
@@ -58,17 +51,6 @@
                     "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ultimate/displayicon.png"
                 }
             ],
-            "voiceLine": {
-                "minDuration": 2.717865,
-                "maxDuration": 2.717865,
-                "mediaList": [
-                    {
-                        "id": 464327068,
-                        "wwise": "https://media.valorant-api.com/sounds/464327068.wem",
-                        "wave": "https://media.valorant-api.com/sounds/464327068.wav"
-                    }
-                ]
-            }
         }
     ]
 }
